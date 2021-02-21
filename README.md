@@ -1,2 +1,2 @@
 
- Appointment Scheduler App with Reactjs and Nodejs
+ Appointment Scheduler App with Reactjs 
